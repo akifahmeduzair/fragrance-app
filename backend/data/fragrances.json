@@ -1,0 +1,338 @@
+[
+  {
+    "id": "sauvage-dior",
+    "brand": "Dior",
+    "name": "Sauvage EDT",
+    "year": 2015,
+    "concentration": "EDT",
+    "gender": "masculine",
+    "accords": ["fresh spicy", "citrus", "amber", "aromatic"],
+    "notes": {
+      "top": ["Calabrian bergamot", "Pepper"],
+      "heart": ["Sichuan pepper", "Lavender", "Pink pepper", "Vetiver", "Patchouli", "Geranium", "Elemi"],
+      "base": ["Ambroxan", "Cedar", "Labdanum"]
+    },
+    "inspired_by": null,
+    "dupes": ["fresh-blvd-dua"]
+  },
+  {
+    "id": "fresh-blvd-dua",
+    "brand": "Dua Fragrances",
+    "name": "Fresh Blvd.",
+    "year": 2018,
+    "concentration": "EDP",
+    "gender": "masculine",
+    "accords": ["fresh spicy", "citrus", "amber"],
+    "notes": {
+      "top": ["Bergamot", "Pepper"],
+      "heart": ["Lavender", "Geranium", "Pink pepper"],
+      "base": ["Ambroxan", "Cedar"]
+    },
+    "inspired_by": "sauvage-dior",
+    "dupes": []
+  },
+  {
+    "id": "bleu-de-chanel",
+    "brand": "Chanel",
+    "name": "Bleu de Chanel EDP",
+    "year": 2014,
+    "concentration": "EDP",
+    "gender": "masculine",
+    "accords": ["woody", "citrus", "aromatic", "amber"],
+    "notes": {
+      "top": ["Grapefruit", "Lemon", "Mint", "Pink pepper"],
+      "heart": ["Ginger", "Nutmeg", "Jasmine"],
+      "base": ["Incense", "Vetiver", "Cedar", "Sandalwood", "Patchouli", "Labdanum"]
+    },
+    "inspired_by": null,
+    "dupes": ["azure-dua"]
+  },
+  {
+    "id": "azure-dua",
+    "brand": "Dua Fragrances",
+    "name": "Azure",
+    "year": 2017,
+    "concentration": "EDP",
+    "gender": "masculine",
+    "accords": ["woody", "citrus", "aromatic"],
+    "notes": {
+      "top": ["Grapefruit", "Mint", "Pink pepper"],
+      "heart": ["Ginger", "Jasmine"],
+      "base": ["Vetiver", "Cedar", "Sandalwood"]
+    },
+    "inspired_by": "bleu-de-chanel",
+    "dupes": []
+  },
+  {
+    "id": "aventus-creed",
+    "brand": "Creed",
+    "name": "Aventus",
+    "year": 2010,
+    "concentration": "EDP",
+    "gender": "masculine",
+    "accords": ["fruity", "smoky", "woody", "fresh spicy"],
+    "notes": {
+      "top": ["Pineapple", "Blackcurrant", "Apple", "Bergamot"],
+      "heart": ["Birch", "Patchouli", "Moroccan jasmine", "Rose"],
+      "base": ["Musk", "Oak moss", "Ambergris", "Vanilla"]
+    },
+    "inspired_by": null,
+    "dupes": ["conqueror-dua"]
+  },
+  {
+    "id": "conqueror-dua",
+    "brand": "Dua Fragrances",
+    "name": "The Conqueror",
+    "year": 2016,
+    "concentration": "EDP",
+    "gender": "masculine",
+    "accords": ["fruity", "smoky", "woody"],
+    "notes": {
+      "top": ["Pineapple", "Blackcurrant", "Apple"],
+      "heart": ["Birch", "Patchouli", "Jasmine"],
+      "base": ["Musk", "Ambergris"]
+    },
+    "inspired_by": "aventus-creed",
+    "dupes": []
+  },
+  {
+    "id": "acqua-di-gio-armani",
+    "brand": "Giorgio Armani",
+    "name": "Acqua di Gio",
+    "year": 1996,
+    "concentration": "EDT",
+    "gender": "masculine",
+    "accords": ["aquatic", "citrus", "aromatic", "marine"],
+    "notes": {
+      "top": ["Lime", "Lemon", "Bergamot", "Jasmine", "Orange"],
+      "heart": ["Sea notes", "Jasmine", "Calone", "Peach", "Freesia"],
+      "base": ["White musk", "Cedar", "Oakmoss", "Patchouli"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  },
+  {
+    "id": "black-orchid-tf",
+    "brand": "Tom Ford",
+    "name": "Black Orchid",
+    "year": 2006,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["woody", "sweet", "warm spicy", "floral"],
+    "notes": {
+      "top": ["Black truffle", "Ylang-ylang", "Bergamot", "Black currant"],
+      "heart": ["Orchid", "Spicy notes", "Fruity notes", "Lotus"],
+      "base": ["Mexican chocolate", "Patchouli", "Vanilla", "Incense", "Sandalwood"]
+    },
+    "inspired_by": null,
+    "dupes": ["orchid-noir-dua"]
+  },
+  {
+    "id": "orchid-noir-dua",
+    "brand": "Dua Fragrances",
+    "name": "Orchid Noir",
+    "year": 2018,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["woody", "sweet", "warm spicy"],
+    "notes": {
+      "top": ["Black truffle", "Bergamot"],
+      "heart": ["Orchid", "Fruity notes"],
+      "base": ["Chocolate", "Patchouli", "Vanilla"]
+    },
+    "inspired_by": "black-orchid-tf",
+    "dupes": []
+  },
+  {
+    "id": "libre-yves-saint-laurent",
+    "brand": "Yves Saint Laurent",
+    "name": "Libre EDP",
+    "year": 2019,
+    "concentration": "EDP",
+    "gender": "feminine",
+    "accords": ["aromatic", "sweet", "warm spicy", "white floral"],
+    "notes": {
+      "top": ["Mandarin orange", "Lavender", "Black currant"],
+      "heart": ["Lavender", "Jasmine", "Orange blossom"],
+      "base": ["Madagascar vanilla", "Musk", "Ambergris", "Cedar"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  },
+  {
+    "id": "good-girl-carolina-herrera",
+    "brand": "Carolina Herrera",
+    "name": "Good Girl",
+    "year": 2016,
+    "concentration": "EDP",
+    "gender": "feminine",
+    "accords": ["warm spicy", "vanilla", "white floral", "almond"],
+    "notes": {
+      "top": ["Almond", "Coffee", "Bergamot", "Lemon"],
+      "heart": ["Jasmine sambac", "Tuberose"],
+      "base": ["Tonka bean", "Cacao", "Vanilla", "Sandalwood"]
+    },
+    "inspired_by": null,
+    "dupes": ["wicked-good-dua"]
+  },
+  {
+    "id": "wicked-good-dua",
+    "brand": "Dua Fragrances",
+    "name": "Wicked Good",
+    "year": 2018,
+    "concentration": "EDP",
+    "gender": "feminine",
+    "accords": ["warm spicy", "vanilla", "white floral"],
+    "notes": {
+      "top": ["Almond", "Coffee", "Bergamot"],
+      "heart": ["Jasmine", "Tuberose"],
+      "base": ["Tonka bean", "Vanilla", "Sandalwood"]
+    },
+    "inspired_by": "good-girl-carolina-herrera",
+    "dupes": []
+  },
+  {
+    "id": "baccarat-rouge-540",
+    "brand": "Maison Francis Kurkdjian",
+    "name": "Baccarat Rouge 540",
+    "year": 2015,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["sweet", "warm spicy", "amber", "woody"],
+    "notes": {
+      "top": ["Saffron", "Jasmine"],
+      "heart": ["Amberwood", "Ambergris"],
+      "base": ["Fir resin", "Cedar", "Musk"]
+    },
+    "inspired_by": null,
+    "dupes": ["crimson-rouge-dua"]
+  },
+  {
+    "id": "crimson-rouge-dua",
+    "brand": "Dua Fragrances",
+    "name": "Crimson Rouge",
+    "year": 2018,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["sweet", "warm spicy", "amber"],
+    "notes": {
+      "top": ["Saffron", "Jasmine"],
+      "heart": ["Amberwood"],
+      "base": ["Cedar", "Musk"]
+    },
+    "inspired_by": "baccarat-rouge-540",
+    "dupes": []
+  },
+  {
+    "id": "light-blue-dolce-gabbana",
+    "brand": "Dolce & Gabbana",
+    "name": "Light Blue",
+    "year": 2001,
+    "concentration": "EDT",
+    "gender": "feminine",
+    "accords": ["citrus", "fresh", "fruity", "woody"],
+    "notes": {
+      "top": ["Sicilian lemon", "Apple", "Cedar", "Bellflower"],
+      "heart": ["Bamboo", "Jasmine", "White rose"],
+      "base": ["Cedar", "Musk", "Amber"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  },
+  {
+    "id": "co2-zara-man",
+    "brand": "Zara",
+    "name": "Zara Man Silver",
+    "year": 2020,
+    "concentration": "EDT",
+    "gender": "masculine",
+    "accords": ["woody", "aromatic", "fresh spicy"],
+    "notes": {
+      "top": ["Bergamot", "Pepper"],
+      "heart": ["Lavender", "Geranium"],
+      "base": ["Cedar", "Ambroxan"]
+    },
+    "inspired_by": "sauvage-dior",
+    "dupes": []
+  },
+  {
+    "id": "santal-33-le-labo",
+    "brand": "Le Labo",
+    "name": "Santal 33",
+    "year": 2011,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["woody", "leather", "spicy", "amber"],
+    "notes": {
+      "top": ["Cardamom", "Violet accord", "Iris"],
+      "heart": ["Sandalwood", "Papyrus"],
+      "base": ["Leather", "Cedarwood", "Musk", "Ambrox"]
+    },
+    "inspired_by": null,
+    "dupes": ["santal-33-dua"]
+  },
+  {
+    "id": "santal-33-dua",
+    "brand": "Dua Fragrances",
+    "name": "Sandal Wood 33",
+    "year": 2019,
+    "concentration": "EDP",
+    "gender": "unisex",
+    "accords": ["woody", "leather", "spicy"],
+    "notes": {
+      "top": ["Cardamom", "Violet accord"],
+      "heart": ["Sandalwood", "Papyrus"],
+      "base": ["Leather", "Cedarwood", "Musk"]
+    },
+    "inspired_by": "santal-33-le-labo",
+    "dupes": []
+  },
+  {
+    "id": "black-opium-ysl",
+    "brand": "Yves Saint Laurent",
+    "name": "Black Opium",
+    "year": 2014,
+    "concentration": "EDP",
+    "gender": "feminine",
+    "accords": ["sweet", "warm spicy", "vanilla", "coffee"],
+    "notes": {
+      "top": ["Pear", "Pink pepper", "Orange blossom"],
+      "heart": ["Coffee", "Jasmine", "Bitter almond", "Licorice"],
+      "base": ["Vanilla", "Patchouli", "Cedar", "Cashmere wood"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  },
+  {
+    "id": "1-million-paco-rabanne",
+    "brand": "Paco Rabanne",
+    "name": "1 Million",
+    "year": 2008,
+    "concentration": "EDT",
+    "gender": "masculine",
+    "accords": ["warm spicy", "sweet", "leather", "amber"],
+    "notes": {
+      "top": ["Blood mandarin", "Grapefruit", "Mint"],
+      "heart": ["Cinnamon", "Rose", "Spicy notes"],
+      "base": ["Leather", "Amber", "Patchouli", "White woods"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  },
+  {
+    "id": "eros-versace",
+    "brand": "Versace",
+    "name": "Eros EDT",
+    "year": 2012,
+    "concentration": "EDT",
+    "gender": "masculine",
+    "accords": ["fresh spicy", "sweet", "aromatic", "citrus"],
+    "notes": {
+      "top": ["Mint", "Green apple", "Lemon"],
+      "heart": ["Tonka bean", "Ambroxan", "Geranium"],
+      "base": ["Vanilla", "Vetiver", "Oakmoss", "Cedar"]
+    },
+    "inspired_by": null,
+    "dupes": []
+  }
+]

@@ -1,0 +1,32 @@
+.lookup-banner {
+  border: 1px solid var(--amber);
+  background: rgba(180, 120, 58, 0.1);
+  padding: 10px 14px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.lookup-summary {
+  margin: 0 0 18px;
+  font-size: 0.92rem;
+  line-height: 1.6;
+  max-width: 60ch;
+}
+
+.lookup-sources {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 0.85rem;
+}
+
+.lookup-sources li {
+  margin-bottom: 4px;
+  overflow-wrap: anywhere;
+}
+
+.lookup-sources a {
+  color: var(--plum);
+}

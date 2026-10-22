@@ -1,0 +1,70 @@
+.scan-drop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 160px;
+  border: 1.5px dashed var(--line);
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 20px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.scan-drop:hover {
+  border-color: var(--amber);
+}
+
+.scan-drop-label {
+  font-size: 0.9rem;
+  color: rgba(33, 29, 27, 0.6);
+}
+
+.scan-preview {
+  max-height: 220px;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 3px;
+}
+
+.scan-status {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: rgba(33, 29, 27, 0.6);
+}
+
+.scan-error {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: var(--plum);
+}
+
+.scan-result {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.scan-result-guess {
+  font-size: 0.9rem;
+  margin: 0 0 10px;
+}
+
+.scan-confirm {
+  padding: 9px 16px;
+  background: var(--ink);
+  color: var(--paper);
+  border: none;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.scan-confirm:hover {
+  background: var(--plum);
+}
+
+.scan-no-match {
+  font-size: 0.85rem;
+  color: rgba(33, 29, 27, 0.6);
+}
